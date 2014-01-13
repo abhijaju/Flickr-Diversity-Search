@@ -5,6 +5,70 @@ Building a Test Collection for Image Search Result Diversity in Flickr
 JSON Schema for `query_data.json`
 ----------------------------------
 
+	@object(2) {
+		"about": @object(2) {
+			"query": "string",
+			"date": "string"
+		},
+		"data": @array [
+			@object(11) {
+				"id": "string",
+				"photo_physical": "string",
+				"photo_web_url": "string",
+				"photo_tags": @array [
+					"string"
+				],
+				"photo_owner": @object(3) {
+					"owner": "string",
+					"username": "string",
+					"realname": "string"
+				},
+				"photo_metadata": @object(2) {
+					"title": "string",
+					"description": "string"
+				},
+				"owner_groups": @array [
+					@object(2) {
+						"nsid": "string",
+						"name": "string"
+					}
+				],
+				"photoset": @array [
+					@object(4) {
+						"id": "string",
+						"title": "string",
+						"photoset_web_url": "string",
+						"top_tags": @array [
+							"string"
+						]
+					}
+				],
+				"photogroup": @array [
+					@object(3) {
+						"id": "string",
+						"title": "string",
+						"photogroup_web_url": "string"
+					}
+				],
+				"photo_comment": @array [
+					@object(3) {
+						"id": "string",
+						"author_id": "string",
+						"date": "string"
+					}
+				],
+				"photo_favourite": @array [
+					@object(3) {
+						"nsid": "string",
+						"username": "string",
+						"date": "string"
+					}
+				]
+			}	
+		]
+	}
+
+
 JSON Schema for `query_categorization.json`
 ---------------------------------------------
 
@@ -14,7 +78,7 @@ JSON Schema for `query_categorization.json`
 		},
 		"categorization": @array [
 			@object(2) {
-				"name": `string`
+				"name": "string",
 				"images": @array [
 					"string"
 				]
