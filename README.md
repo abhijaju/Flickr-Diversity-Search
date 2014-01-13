@@ -26,63 +26,63 @@ Project Structure
 JSON Schema for `query_data.json`
 ----------------------------------
 
-	@object(2) {
-		"about": @object(2) {
-			"query": "string",			\\ query name
-			"date": "string"
+	@object(2) {											\\ top-level object
+		"about": @object(2) {								\\ about object
+			"query": "string",								\\ query name 
+			"date": "string"								\\ standard date format, when is the data was queried
 		},
-		"data": @array [
-			@object(11) {
-				"id": "string",
-				"photo_physical": "string",
-				"photo_web_url": "string",
-				"photo_tags": @array [
+		"data": @array [									\\ data object, list of objects for each photo
+			@object(11) {									\\ object for an photo
+				"id": "string",								\\ photo ID in flickr
+				"photo_physical": "string",					\\ url of photo in jpg format of size medium 640
+				"photo_web_url": "string",					\\ url of photo page in flickr
+				"photo_tags": @array [						\\ list of tags of the photo in flickr 
 					"string"
 				],
-				"photo_owner": @object(3) {
+				"photo_owner": @object(3) {					\\ details of the owner of the photo
 					"owner": "string",
 					"username": "string",
 					"realname": "string"
 				},
-				"photo_metadata": @object(2) {
+				"photo_metadata": @object(2) {				\\ metadata of photo in flickr
 					"title": "string",
 					"description": "string"
 				},
-				"owner_groups": @array [
+				"owner_groups": @array [					\\ list of groups the owner is a member of
 					@object(2) {
-						"nsid": "string",
+						"nsid": "string",					
 						"name": "string"
 					}
 				],
-				"photoset": @array [
+				"photoset": @array [						\\ list of visible photosets to which the photo belongs to
 					@object(4) {
-						"id": "string",
-						"title": "string",
-						"photoset_web_url": "string",
-						"top_tags": @array [
+						"id": "string",						\\ ID of photoset
+						"title": "string",					\\ title of photoset
+						"photoset_web_url": "string",		\\ url of photoset in flickr
+						"top_tags": @array [				\\ most frequent tags from first 50 photos in photoset (atmost 20)
 							"string"
 						]
 					}
 				],
-				"photogroup": @array [
+				"photogroup": @array [						\\ list of visible flickr photogroups to which the photo belongs to
 					@object(3) {
-						"id": "string",
-						"title": "string",
-						"photogroup_web_url": "string"
+						"id": "string",						\\ ID of photogroup
+						"title": "string",					\\ title of photogroup
+						"photogroup_web_url": "string"		\\ url of photogroup in flickr
 					}
 				],
-				"photo_comment": @array [
+				"photo_comment": @array [					\\ list of comments for the photo
 					@object(3) {
-						"id": "string",
-						"author_id": "string",
-						"date": "string"
+						"id": "string",						\\ ID of comment
+						"author_id": "string",				\\ ID of author of the comment
+						"date": "string"					\\ timestamp when comment was posted
 					}
 				],
-				"photo_favourite": @array [
+				"photo_favourite": @array [					\\ list of people who have favorited the photo
 					@object(3) {
-						"nsid": "string",
-						"username": "string",
-						"date": "string"
+						"nsid": "string",					\\ ID of user
+						"username": "string",				\\ username of user
+						"date": "string"					\\ timestamp of the action
 					}
 				]
 			}	
@@ -93,14 +93,14 @@ JSON Schema for `query_data.json`
 JSON Schema for `query_categorization.json`
 ---------------------------------------------
 
-	@object(2) {
-		"about": @object(1) {
-			"query": "string"
+	@object(2) {											\\ top-level object
+		"about": @object(1) {								\\ about object
+			"query": "string"								\\ query name
 		},
-		"categorization": @array [
-			@object(2) {
-				"name": "string",
-				"images": @array [
+		"categorization": @array [							\\ categorization object
+			@object(2) {									\\ object for a category
+				"name": "string",							\\ category name
+				"images": @array [							\\ list of photo IDs in the category
 					"string"
 				]
 			}
