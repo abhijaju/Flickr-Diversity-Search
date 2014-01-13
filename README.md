@@ -22,13 +22,40 @@ Queries and Statistics in the test collection
     <td>cardinal</td>
     <td>425</td>
     <td>
-    	[5]&nbsp;&nbsp;&nbsp;&nbsp;cardinal flower <br/>
-    	[7]&nbsp;&nbsp;&nbsp;&nbsp;beetle <br/>
-    	[14]&nbsp;&nbsp;&nbsp;cardinal football team (NFL) - american football <br/>
-    	[15]&nbsp;&nbsp;&nbsp;official of the catholic church or church related <br/>
-    	[341]&nbsp;&nbsp;bird <br/>
-    	[1]&nbsp;&nbsp;&nbsp;&nbsp;professional baseball team <br/>
-    	[42]&nbsp;&nbsp;&nbsp;junk <br/>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>cardinal flower</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>beetle</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<td>cardinal football team (NFL) - american football</td>
+				<td>14</td>
+			</tr>
+			<tr>
+				<td>official of the catholic church or church related</td>
+				<td>15</td>
+			</tr>
+			<tr>
+				<td>bird</td>
+				<td>341</td>
+			</tr>
+			<tr>
+				<td>professional baseball team</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>42</td>
+			</tr>
+		</table>
     </td>
   </tr>
   <tr>
