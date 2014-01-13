@@ -14,7 +14,7 @@ JSON Schema for `query_categorization.json`
 		},
 		"categorization": @array [
 			@object(2) {
-				"name": "string"
+				"name": `string`
 				"images": @array [
 					"string"
 				]
