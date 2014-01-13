@@ -2,8 +2,11 @@ Flickr Diversity Search
 =======================
 Building a Test Collection for Image Search Result Diversity in Flickr
 
+JSON Schema for `query_data.json`
+----------------------------------
+
 Queries and Statistics in the test collection
----------------------------------------------
+----------------------------------------------
 <table>
   <tr>
     <th>#</th>
