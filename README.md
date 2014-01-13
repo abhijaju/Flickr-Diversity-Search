@@ -15,16 +15,21 @@ Queries and Statistics in the test collection
     <td>1</td>
     <td>argos</td>
     <td>434</td>
-    <td>
-    	* Abhijaju
-    	* Abhijaju2
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>cardinal</td>
     <td>425</td>
-    <td></td>
+    <td>
+    	[5] cardinal flower <br/>
+    	[7] beetle <br/>
+    	[14] cardinal football team (NFL) - american football <br/>
+    	[15] official of the catholic church or church related <br/>
+    	[341] bird <br/>
+    	[1] professional baseball team <br/>
+    	[42] junk <br/>
+    </td>
   </tr>
   <tr>
     <td>3</td>
