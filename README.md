@@ -18,8 +18,6 @@ Project Structure
 	|   |
 	|	|──
 	|	|
-	|   ├──
-	|   |
 	|   
 	├── README.md
 	└── LICENSE
