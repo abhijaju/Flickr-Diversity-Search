@@ -4,7 +4,6 @@ Building a Test Collection for Image Search Result Diversity in Flickr
 
 Project Structure
 ------------------
-<pre>
 	.
 	|---- queries
 	|		|
@@ -24,7 +23,7 @@ Project Structure
 	|		
 	|---- Readme.md
 	|---- LICENSE
-</pre>
+
 
 JSON Schema for `query_data.json`
 ----------------------------------
