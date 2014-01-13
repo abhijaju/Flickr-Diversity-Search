@@ -28,7 +28,7 @@ JSON Schema for `query_data.json`
 
 	@object(2) {
 		"about": @object(2) {
-			"query": "string",
+			"query": "string",			\\ query name
 			"date": "string"
 		},
 		"data": @array [
