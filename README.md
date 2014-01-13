@@ -62,23 +62,56 @@ Queries and Statistics in the test collection
     <td>3</td>
     <td>david</td>
     <td>347</td>
-    <td>
-    	[2]		eagle scout <br/>
-    	[6]		traffic signal system <br/>
-    	[11]	military aircraft <br/>
-    	[11]	galaxy/star system <br/>
-    	[3]		Sports team <br/>
-    	[2]		Rock band <br/>
-    	[4]		Automobile <br/>
-    	[289]	Bird <br/>
-    	[141]	junk <br/>
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>eagle</td>
     <td>469</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>eagle scout</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>traffic signal system</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>military aircraft</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>galaxy/star system</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>Sports team</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Rock band</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>Automobile</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>bird</td>
+				<td>289</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>141</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>5</td>
@@ -96,7 +129,38 @@ Queries and Statistics in the test collection
     <td>7</td>
     <td>jaguar</td>
     <td>429</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>animal</td>
+				<td>136</td>
+			</tr>
+			<tr>
+				<td>sports team</td>
+				<td>0</td>
+			</tr>
+			<tr>
+				<td>band (music)</td>
+				<td>0</td>
+			</tr>
+			<tr>
+				<td>car</td>
+				<td>271</td>
+			</tr>
+			<tr>
+				<td>military aircraft</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>19</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>8</td>
@@ -126,13 +190,103 @@ Queries and Statistics in the test collection
     <td>12</td>
     <td>saturn</td>
     <td>422</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Saturn Girl</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>Saturn V Spacecraft</td>
+				<td>16</td>
+			</tr>
+			<tr>
+				<td>Saturn Painting</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>ship</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<td>Sega Saturn Video Game Console</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>astrophotography</td>
+				<td>47</td>
+			</tr>
+			<tr>
+				<td>god : roman mythology</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>car</td>
+				<td>105</td>
+			</tr>
+			<tr>
+				<td>planet Saturn</td>
+				<td>197</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>37</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>13</td>
     <td>scorpion</td>
     <td>462</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>scorpion fly</td>
+				<td>39</td>
+			</tr>
+			<tr>
+				<td>submarine</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<td>Vehicle or Vessel</td>
+				<td>17</td>
+			</tr>
+			<tr>
+				<td>Military Unit</td>
+				<td>0</td>
+			</tr>
+			<tr>
+				<td>Video game</td>
+				<td>0</td>
+			</tr>
+			<tr>
+				<td>Heavy metal band</td>
+				<td>131</td>
+			</tr>
+			<tr>
+				<td>Fish</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>Animal</td>
+				<td>146</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>111</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>14</td>
@@ -144,12 +298,105 @@ Queries and Statistics in the test collection
     <td>15</td>
     <td>spider</td>
     <td>412</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Spider Robots</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>Spider by LEGO</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>Spider Lily and Plants</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>spider's web</td>
+				<td>35</td>
+			</tr>
+			<tr>
+				<td>movie character</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>automobile</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>insect</td>
+				<td>325</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>30</td>
+			</tr>
+		</table> 
+    </td>
   </tr>
   <tr>
     <td>16</td>
     <td>triumph</td>
     <td>392</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Triumph Fashion Show</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>Cars</td>
+				<td>182</td>
+			</tr>
+			<tr>
+				<td>Motorcycles</td>
+				<td>189</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>15</td>
+			</tr>
+		</table>
+    </td>
   </tr>
+
+    	<!-- <table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+		</table> -->
 </table>
