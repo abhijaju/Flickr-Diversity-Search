@@ -5,6 +5,24 @@ Building a Test Collection for Image Search Result Diversity in Flickr
 JSON Schema for `query_data.json`
 ----------------------------------
 
+JSON Schema for `query_categorization.json`
+---------------------------------------------
+
+	@object(2) {
+		"about": @object(1) {
+			"query": "string"
+		},
+		"categorization": @array [
+			@object(2) {
+				"name": "string"
+				"images": @array [
+					"string"
+				]
+			}
+		]
+	}
+
+
 Queries and Statistics in the test collection
 ----------------------------------------------
 <table>
