@@ -22,20 +22,30 @@ Queries and Statistics in the test collection
     <td>cardinal</td>
     <td>425</td>
     <td>
-    	[5] 	cardinal flower <br/>
-    	[7] 	beetle <br/>
-    	[14] 	cardinal football team (NFL) - american football <br/>
-    	[15] 	official of the catholic church or church related <br/>
-    	[341] 	bird <br/>
-    	[1] 	professional baseball team <br/>
-    	[42] 	junk <br/>
+    	[5]&nbsp;&nbsp;&nbsp;&nbsp;cardinal flower <br/>
+    	[7]&nbsp;&nbsp;&nbsp;&nbsp;beetle <br/>
+    	[14]&nbsp;&nbsp;&nbsp;cardinal football team (NFL) - american football <br/>
+    	[15]&nbsp;&nbsp;&nbsp;official of the catholic church or church related <br/>
+    	[341]&nbsp;&nbsp;bird <br/>
+    	[1]&nbsp;&nbsp;&nbsp;&nbsp;professional baseball team <br/>
+    	[42]&nbsp;&nbsp;&nbsp;junk <br/>
     </td>
   </tr>
   <tr>
     <td>3</td>
     <td>david</td>
     <td>347</td>
-    <td></td>
+    <td>
+    	[2]		eagle scout <br/>
+    	[6]		traffic signal system <br/>
+    	[11]	military aircraft <br/>
+    	[11]	galaxy/star system <br/>
+    	[3]		Sports team <br/>
+    	[2]		Rock band <br/>
+    	[4]		Automobile <br/>
+    	[289]	Bird <br/>
+    	[141]	junk <br/>
+    </td>
   </tr>
   <tr>
     <td>4</td>
