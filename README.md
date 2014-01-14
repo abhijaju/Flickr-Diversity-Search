@@ -204,7 +204,106 @@ Queries and Statistics in the test collection
     <td>3</td>
     <td>david</td>
     <td>347</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>David Silva</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>David Byrne</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>David Beck Photography</td>
+				<td>28</td>
+			</tr>
+			<tr>
+				<td>David Coulthard</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>David Tennant</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>David Simon</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>David Sanchez</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>David Cook</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>David Shillington</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>David (Michelangelo)</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>David Villa</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>David Garrett</td>
+				<td>27</td>
+			</tr>
+			<tr>
+				<td>David Wright</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>David Bowie</td>
+				<td>23</td>
+			</tr>
+			<tr>
+				<td>David Karger</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>David Ballester</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>David Moreno</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>david lynch (director)</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>david warner (australian crickter)</td>
+				<td>0</td>
+			</tr>
+			<tr>
+				<td>david luiz (brazillan footballer)</td>
+				<td>0</td>
+			</tr>
+			<tr>
+				<td>david archuleta (singer, actor)</td>
+				<td>39</td>
+			</tr>
+			<tr>
+				<td>david beckham (UK footballer)</td>
+				<td>21</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>134</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>4</td>
@@ -259,7 +358,42 @@ Queries and Statistics in the test collection
     <td>5</td>
     <td>greyhound</td>
     <td>415</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Greyhound Tank LEGO</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>Greyhound train</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>The Grumman Greyhound (cargo aircraft)</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Greyhound bus terminals</td>
+				<td>48</td>
+			</tr>
+			<tr>
+				<td>long distance bus service</td>
+				<td>231</td>
+			</tr>
+			<tr>
+				<td>dog breed</td>
+				<td>79</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>44</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>6</td>
@@ -434,7 +568,50 @@ Queries and Statistics in the test collection
     <td>14</td>
     <td>seal</td>
     <td>410</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Graffiti</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>Seal Knot</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Seal (musician)</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>Seal Rocks</td>
+				<td>30</td>
+			</tr>
+			<tr>
+				<td>Seal Beach Pier</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>seal (emblem)</td>
+				<td>12</td>
+			</tr>
+			<tr>
+				<td>navy seal (special ops unit)</td>
+				<td>15</td>
+			</tr>
+			<tr>
+				<td>animal</td>
+				<td>296</td>
+			</tr>
+			<tr>
+				<td>junk</td>
+				<td>31</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>15</td>
