@@ -41,8 +41,10 @@ Project Structure
 	└── LICENSE
 
 
-JSON Schema for `query_data.json` `Figure 1`
+JSON Schema for `query_data.json`
 ----------------------------------
+
+### Figure 1
 
 	@object(2) {											\\ top-level object
 		"about": @object(2) {								\\ about object
@@ -108,8 +110,10 @@ JSON Schema for `query_data.json` `Figure 1`
 	}
 
 
-JSON Schema for `query_result_categorization.json` `Figure 2`
+JSON Schema for `query_result_categorization.json`
 ---------------------------------------------
+
+### Figure 2
 
 	@object(2) {											\\ top-level object
 		"about": @object(1) {								\\ about object
@@ -126,8 +130,11 @@ JSON Schema for `query_result_categorization.json` `Figure 2`
 	}
 
 
-Queries and Statistics in the test collection `Table 1`
+Queries and Statistics in the test collection
 ----------------------------------------------
+
+### Table 1
+
 <table>
   <tr>
     <th>#</th>
