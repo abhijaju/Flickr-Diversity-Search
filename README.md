@@ -1,6 +1,24 @@
-Flickr Diversity Search
+Test Collection for Image Search Result Diversity in Flickr
 =======================
-Building a Test Collection for Image Search Result Diversity in Flickr
+
+To create this test collection the following process was followed. First, a set of 30 ambiguous keyword queries were 
+identified. Every query was manually annotated with the possible set of interpretations (categories). The keyword queries
+and their possible interpretations is shown in Table 1. Next, the Flickr APIs were used to fetch the images and the related 
+metadata for each query. This was done by utilizing the "flickr.photos.search" API. This API takes as input a query string 
+and performs a free text search on Flickr images. Images who's title, description or tags matches the query terms are 
+returned. Different Flickr APIs are then used to retrieve the relevant metadata for each image in the result set. Note 
+while crawling images without tag or Flickr Group/photoset information were discarded. The number of images crawled for 
+each query is shown under column titled "# of images" in Table 1.  For each query a resulting json file containing the 
+crawled metadata is created. The schema of this json file is shown Figure 1.
+
+Three human evaluators were then asked to label the resulting data set. Each human labeler was shown images from the query 
+result set and was asked to label it with one of the categories associated with that query . The user was allowed to add 
+additional categories if the situation required. Any image that was judged irrelevant or whose category label was not 
+evident was assigned to the “other” category. Finally, ground truth category was determined by using a majority voting 
+scheme. This labeling task was performed on all the 30 queries. The result of this categorization is stored in a separate 
+json file the schema for which is shown in Figure 2. 
+
+<!-- Note: For every query two json files are created (1) query_data.json [ This file contains all the images related to the keyword query and all the relevant social tags associated with the images in the result set] (2) query_result_categorization.json  [ This file contains the result of the categorization/labeling]. Both these files are stored in folders named after the query number (first column of Table 1). -->
 
 
 Project Structure
@@ -14,7 +32,7 @@ Project Structure
 	|   |
 	|   ├── <query_name>
 	|   |	├── query_data.json
-	|   |	└── query_categorization.json
+	|   |	└── query_result_categorization.json
 	|   |
 	|	|──
 	|	|
@@ -23,13 +41,13 @@ Project Structure
 	└── LICENSE
 
 
-JSON Schema for `query_data.json`
+JSON Schema for `query_data.json` `Figure 1`
 ----------------------------------
 
 	@object(2) {											\\ top-level object
 		"about": @object(2) {								\\ about object
 			"query": "string",								\\ query name 
-			"date": "string"								\\ standard date format, when is the data was queried
+			"date": "string"								\\ date when the query was crawled
 		},
 		"data": @array [									\\ data object, list of objects for each photo
 			@object(11) {									\\ object for an photo
@@ -90,7 +108,7 @@ JSON Schema for `query_data.json`
 	}
 
 
-JSON Schema for `query_categorization.json`
+JSON Schema for `query_result_categorization.json` `Figure 2`
 ---------------------------------------------
 
 	@object(2) {											\\ top-level object
@@ -108,7 +126,7 @@ JSON Schema for `query_categorization.json`
 	}
 
 
-Queries and Statistics in the test collection
+Queries and Statistics in the test collection `Table 1`
 ----------------------------------------------
 <table>
   <tr>
