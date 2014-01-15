@@ -141,7 +141,7 @@ JSON Schema for `query_result_categorization.json`
 	}
 
 
-Queries and Statistics in the test collection
+Query Statistics
 ----------------------------------------------
 
 ### Table 1
