@@ -82,18 +82,6 @@
             ]
         },
         {
-            "name": "Military Unit",
-            "images": [
-
-            ]
-        },
-        {
-            "name": "Video game",
-            "images": [
-
-            ]
-        },
-        {
             "name": "Heavy metal band",
             "images": [
                 "6392149525",
@@ -397,7 +385,7 @@
             ]
         },
         {
-            "name": "junk",
+            "name": "others",
             "images": [
                 "4416959569",
                 "4635921540",

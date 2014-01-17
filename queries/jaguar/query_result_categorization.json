@@ -145,18 +145,6 @@
             ]
         },
         {
-            "name": "sports team",
-            "images": [
-
-            ]
-        },
-        {
-            "name": "band (music)",
-            "images": [
-
-            ]
-        },
-        {
             "name": "car",
             "images": [
                 "6270545764",
@@ -441,7 +429,7 @@
             ]
         },
         {
-            "name": "junk",
+            "name": "others",
             "images": [
                 "4603108638",
                 "9674821126",

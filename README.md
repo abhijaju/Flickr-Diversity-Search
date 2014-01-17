@@ -157,7 +157,58 @@ Query Statistics
     <td>1</td>
     <td>argos</td>
     <td>434</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Argos ancient city in Greece</td>
+				<td>32</td>
+			</tr>
+			<tr>
+				<td>Argo Racing Car</td>
+				<td>23</td>
+			</tr>
+			<tr>
+				<td>Argo train network</td>
+				<td>31</td>
+			</tr>
+			<tr>
+				<td>Argo Gold Mine and Mill</td>
+				<td>34</td>
+			</tr>
+			<tr>
+				<td>Argo (oceanography)</td>
+				<td>14</td>
+			</tr>
+			<tr>
+				<td>dog</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<td>UK retailer</td>
+				<td>126</td>
+			</tr>
+			<tr>
+				<td>ben affleck movie</td>
+				<td>17</td>
+			</tr>
+			<tr>
+				<td>football team</td>
+				<td>19</td>
+			</tr>
+			<tr>
+				<td>oil company</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>119</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>2</td>
@@ -194,7 +245,7 @@ Query Statistics
 				<td>1</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>42</td>
 			</tr>
 		</table>
@@ -211,96 +262,48 @@ Query Statistics
 				<th># of images</th>
 			</tr>
 			<tr>
-				<td>David Silva</td>
+				<td>David Silva (Spanish footballer)</td>
 				<td>6</td>
 			</tr>
 			<tr>
-				<td>David Byrne</td>
-				<td>2</td>
-			</tr>
-			<tr>
-				<td>David Beck Photography</td>
-				<td>28</td>
-			</tr>
-			<tr>
-				<td>David Coulthard</td>
+				<td>David Coulthard (Formula One racing drive)</td>
 				<td>6</td>
-			</tr>
-			<tr>
-				<td>David Tennant</td>
-				<td>4</td>
-			</tr>
-			<tr>
-				<td>David Simon</td>
-				<td>1</td>
-			</tr>
-			<tr>
-				<td>David Sanchez</td>
-				<td>3</td>
-			</tr>
-			<tr>
-				<td>David Cook</td>
-				<td>4</td>
-			</tr>
-			<tr>
-				<td>David Shillington</td>
-				<td>1</td>
 			</tr>
 			<tr>
 				<td>David (Michelangelo)</td>
 				<td>11</td>
 			</tr>
 			<tr>
-				<td>David Villa</td>
+				<td>David Villa (Spanish footballer)</td>
 				<td>9</td>
 			</tr>
 			<tr>
-				<td>David Garrett</td>
+				<td>David Garrett (German pop and crossover violinist)</td>
 				<td>27</td>
 			</tr>
 			<tr>
-				<td>David Wright</td>
+				<td>David Wright (American baseball player)</td>
 				<td>9</td>
 			</tr>
 			<tr>
-				<td>David Bowie</td>
+				<td>David Bowie (English musician)</td>
 				<td>23</td>
 			</tr>
 			<tr>
-				<td>David Karger</td>
-				<td>1</td>
-			</tr>
-			<tr>
-				<td>David Ballester</td>
-				<td>5</td>
-			</tr>
-			<tr>
-				<td>David Moreno</td>
-				<td>4</td>
-			</tr>
-			<tr>
-				<td>david lynch (director)</td>
+				<td>David lynch (director)</td>
 				<td>9</td>
 			</tr>
 			<tr>
-				<td>david warner (australian crickter)</td>
-				<td>0</td>
-			</tr>
-			<tr>
-				<td>david luiz (brazillan footballer)</td>
-				<td>0</td>
-			</tr>
-			<tr>
-				<td>david archuleta (singer, actor)</td>
+				<td>David archuleta (singer, actor)</td>
 				<td>39</td>
 			</tr>
 			<tr>
-				<td>david beckham (UK footballer)</td>
+				<td>David beckham (UK footballer)</td>
 				<td>21</td>
 			</tr>
 			<tr>
-				<td>junk</td>
-				<td>134</td>
+				<td>others</td>
+				<td>187</td>
 			</tr>
 		</table>
     </td>
@@ -348,7 +351,7 @@ Query Statistics
 				<td>289</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>141</td>
 			</tr>
 		</table>
@@ -389,7 +392,7 @@ Query Statistics
 				<td>79</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>44</td>
 			</tr>
 		</table>
@@ -399,7 +402,46 @@ Query Statistics
     <td>6</td>
     <td>indian</td>
     <td>375</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Indian Gap School Texas</td>
+				<td>13</td>
+			</tr>
+			<tr>
+				<td>Indian Paintbrush Plant</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>Indian Summer Festival</td>
+				<td>12</td>
+			</tr>
+			<tr>
+				<td>bird specie</td>
+				<td>34</td>
+			</tr>
+			<tr>
+				<td>native american indian (red indian)</td>
+				<td>37</td>
+			</tr>
+			<tr>
+				<td>motorcyle brand</td>
+				<td>62</td>
+			</tr>
+			<tr>
+				<td>india related dance, food etc</td>
+				<td>130</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>83</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>7</td>
@@ -416,14 +458,6 @@ Query Statistics
 				<td>136</td>
 			</tr>
 			<tr>
-				<td>sports team</td>
-				<td>0</td>
-			</tr>
-			<tr>
-				<td>band (music)</td>
-				<td>0</td>
-			</tr>
-			<tr>
 				<td>car</td>
 				<td>271</td>
 			</tr>
@@ -432,7 +466,7 @@ Query Statistics
 				<td>3</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>19</td>
 			</tr>
 		</table>
@@ -442,25 +476,217 @@ Query Statistics
     <td>8</td>
     <td>java</td>
     <td>438</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Insects at Java indonesia island</td>
+				<td>28</td>
+			</tr>
+			<tr>
+				<td>Java plum</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>Java Sparrow</td>
+				<td>42</td>
+			</tr>
+			<tr>
+				<td>java Indonesia island</td>
+				<td>160</td>
+			</tr>
+			<tr>
+				<td>coffee</td>
+				<td>29</td>
+			</tr>
+			<tr>
+				<td>Java (including javascript) programming language related</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>160</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>9</td>
     <td>kings</td>
     <td>414</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Places having name - kings (general)</td>
+				<td>39</td>
+			</tr>
+			<tr>
+				<td>King-Vulture</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<td>King penguins</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<td>Tank / Lego Tank</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<td>King Abdulaziz Endowment</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>King American Ambulance company</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>King County, Washington</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>Kings of Leon Rock band</td>
+				<td>19</td>
+			</tr>
+			<tr>
+				<td>The Red Devils - blues band</td>
+				<td>27</td>
+			</tr>
+			<tr>
+				<td>London Kings Cross railway station</td>
+				<td>22</td>
+			</tr>
+			<tr>
+				<td>King Cobra</td>
+				<td>12</td>
+			</tr>
+			<tr>
+				<td>royal family (general)</td>
+				<td>51</td>
+			</tr>
+			<tr>
+				<td>kings college</td>
+				<td>32</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>167</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>10</td>
     <td>oasis</td>
     <td>426</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Oasis Monorail</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>Oasis of the Seas (Cruise Ship)</td>
+				<td>155</td>
+			</tr>
+			<tr>
+				<td>airlines</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>desert oasis (vegetation in desert)</td>
+				<td>91</td>
+			</tr>
+			<tr>
+				<td>rock band</td>
+				<td>95</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>73</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>11</td>
     <td>queen</td>
     <td>442</td>
-    <td></td>
+    <td>
+    	<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Flowers</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>Places having name - queen (general)</td>
+				<td>71</td>
+			</tr>
+			<tr>
+				<td>Queen Anne plant</td>
+				<td>12</td>
+			</tr>
+			<tr>
+				<td>Queen Butterfly</td>
+				<td>21</td>
+			</tr>
+			<tr>
+				<td>Queens of Noise - Musical Album - American rock band The Runaways</td>
+				<td>20</td>
+			</tr>
+			<tr>
+				<td>Queens New York City</td>
+				<td>22</td>
+			</tr>
+			<tr>
+				<td>Queens of the Stone Age - an American rock band</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<td>Queen Farida</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>Queenadreena  - an English alternative rock</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>queen monarch (UK)</td>
+				<td>57</td>
+			</tr>
+			<tr>
+				<td>queen bee</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>ships</td>
+				<td>88</td>
+			</tr>
+			<tr>
+				<td>rock band</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>103</td>
+			</tr>
+		</table>
+    </td>
   </tr>
   <tr>
     <td>12</td>
@@ -509,7 +735,7 @@ Query Statistics
 				<td>197</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>37</td>
 			</tr>
 		</table>
@@ -538,14 +764,6 @@ Query Statistics
 				<td>17</td>
 			</tr>
 			<tr>
-				<td>Military Unit</td>
-				<td>0</td>
-			</tr>
-			<tr>
-				<td>Video game</td>
-				<td>0</td>
-			</tr>
-			<tr>
 				<td>Heavy metal band</td>
 				<td>131</td>
 			</tr>
@@ -558,7 +776,7 @@ Query Statistics
 				<td>146</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>111</td>
 			</tr>
 		</table>
@@ -607,7 +825,7 @@ Query Statistics
 				<td>296</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>31</td>
 			</tr>
 		</table>
@@ -652,7 +870,7 @@ Query Statistics
 				<td>325</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>30</td>
 			</tr>
 		</table> 
@@ -681,7 +899,7 @@ Query Statistics
 				<td>189</td>
 			</tr>
 			<tr>
-				<td>junk</td>
+				<td>others</td>
 				<td>15</td>
 			</tr>
 		</table>
