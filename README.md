@@ -905,6 +905,287 @@ Query Statistics
 		</table>
     </td>
   </tr>
+  <tr>
+  	<td>17</td>
+  	<td>giant</td>
+  	<td>408</td>
+  	<td>
+  		<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Giant Redwood</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>Giant Statues/Sculptures/Structures (general)</td>
+				<td>24</td>
+			</tr>
+			<tr>
+				<td>Giant Food (supermarket chain)</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<td>Giant Pacific octopus</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>Giant Cuttlefish</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>Giant anteater</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>Camera Obscura (San Francisco, California)</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Giant Squid</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Giant Cupcake</td>
+				<td>48</td>
+			</tr>
+			<tr>
+				<td>The Giant’s Causeway (Ireland)</td>
+				<td>39</td>
+			</tr>
+			<tr>
+				<td>giant swallowtail - butterfly specie</td>
+				<td>28</td>
+			</tr>
+			<tr>
+				<td>giant bike company</td>
+				<td>21</td>
+			</tr>
+			<tr>
+				<td>giant panda</td>
+				<td>16</td>
+			</tr>
+			<tr>
+				<td>giant schnauzer (dog breed)</td>
+				<td>42</td>
+			</tr>
+			<tr>
+				<td>baseball team</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>142</td>
+			</tr>
+		</table>
+  	</td>
+  </tr>
+  <tr>
+  	<td>18</td>
+  	<td>tesla</td>
+  	<td>387</td>
+  	<td>
+  		<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Nikola Tesla (Scientist)</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>Tesla Coil</td>
+				<td>32</td>
+			</tr>
+			<tr>
+				<td>Electric cars (Tesla Mortors)</td>
+				<td>228</td>
+			</tr>
+			<tr>
+				<td>Tesla Motors related</td>
+				<td>38</td>
+			</tr>
+			<tr>
+				<td>american hard rock band</td>
+				<td>26</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>55</td>
+			</tr>
+		</table>
+  	</td>
+  </tr>
+  <tr>
+  	<td>19</td>
+  	<td>tiger</td>
+  	<td>417</td>
+  	<td>
+  		<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Tiger Stadium</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>Common Tiger (butterfly)</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>Oncilla (tiger cat)</td>
+				<td>14</td>
+			</tr>
+			<tr>
+				<td>tiger bettle (insect)</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>tiger lilly (flower)</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<td>buses</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>tiger shark</td>
+				<td>17</td>
+			</tr>
+			<tr>
+				<td>tiger airlines</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>military tank</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>golfer tiger-woods</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<td>animal</td>
+				<td>289</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>45</td>
+			</tr>
+		</table>
+  	</td>
+  </tr>
+  <tr>
+  	<td>20</td>
+  	<td>prince</td>
+  	<td>424</td>
+  	<td>
+  		<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Prince Charles</td>
+				<td>21</td>
+			</tr>
+			<tr>
+				<td>Prince Harry</td>
+				<td>55</td>
+			</tr>
+			<tr>
+				<td>Prince Poppycock (singer)</td>
+				<td>31</td>
+			</tr>
+				<td>The Prince of Wales</td>
+				<td>11</td>
+			</tr>
+				<td>automobile</td>
+				<td>5</td>
+			</tr>
+				<td>fictional/movie/animation character</td>
+				<td>17</td>
+			</tr>
+				<td>place/city/street (location) e.g. prince ontario</td>
+				<td>101</td>
+			</tr>
+			<tr>
+				<td>prince (musician)</td>
+				<td>48</td>
+			</tr>
+			<tr>
+				<td>prince william (uk royal family)</td>
+				<td>32</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>103</td>
+			</tr>
+		</table>
+  	</td>
+  </tr>
+  <tr>
+  	<td>21</td>
+  	<td>wilson</td>
+  	<td>430</td>
+  	<td>
+  		<table>
+			<tr>
+				<th>Category name</th>
+				<th># of images</th>
+			</tr>
+			<tr>
+				<td>Mount Wilson</td>
+				<td>15</td>
+			</tr>
+			<tr>
+				<td>Wilsons Promontory National Park</td>
+				<td>33</td>
+			</tr>
+			<tr>
+				<td>Wilson's Storm</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>Wilson's Snipe</td>
+				<td>47</td>
+			</tr>
+			<tr>
+				<td>Wilson's Phalarope</td>
+				<td>27</td>
+			</tr>
+			<tr>
+				<td>Wilson's Plover</td>
+				<td>18</td>
+			</tr>
+			<tr>
+				<td>Robert J. Wilson (Theater Director)</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>geographical location (mountain, city view etc)</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>president of USA</td>
+				<td>49</td>
+			</tr>
+			<tr>
+				<td>bird</td>
+				<td>47</td>
+			</tr>
+			<tr>
+				<td>others</td>
+				<td>172</td>
+			</tr>
+		</table>
+  	</td>
+  </tr>
 
     	<!-- <table>
 			<tr>
