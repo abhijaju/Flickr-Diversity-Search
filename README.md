@@ -1102,15 +1102,19 @@ Query Statistics
 				<td>Prince Poppycock (singer)</td>
 				<td>31</td>
 			</tr>
+			<tr>
 				<td>The Prince of Wales</td>
 				<td>11</td>
 			</tr>
+			<tr>
 				<td>automobile</td>
 				<td>5</td>
 			</tr>
+			<tr>
 				<td>fictional/movie/animation character</td>
 				<td>17</td>
 			</tr>
+			<tr>
 				<td>place/city/street (location) e.g. prince ontario</td>
 				<td>101</td>
 			</tr>
