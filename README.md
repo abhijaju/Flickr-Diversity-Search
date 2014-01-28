@@ -184,10 +184,6 @@ Query Statistics
 				<td>14</td>
 			</tr>
 			<tr>
-				<td>dog</td>
-				<td>10</td>
-			</tr>
-			<tr>
 				<td>UK retailer</td>
 				<td>126</td>
 			</tr>
