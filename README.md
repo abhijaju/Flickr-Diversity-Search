@@ -1116,15 +1116,15 @@ Query Statistics
 				<td>33</td>
 			</tr>
 			<tr>
-				<td>Wilson's Storm</td>
+				<td><a href="http://en.wikipedia.org/wiki/Wilson's_Storm_Petrel" title="Wilson's Storm Petrel" target="_blank">Wilson's Storm</a></td>
 				<td>8</td>
 			</tr>
 			<tr>
-				<td>Wilson's Snipe</td>
+				<td><a href="http://en.wikipedia.org/wiki/Wilson's_Snipe" title="Wilson's Snipe" target="_blank">Wilson's Snipe</a></td>
 				<td>47</td>
 			</tr>
 			<tr>
-				<td>Wilson's Phalarope</td>
+				<td><a href="http://en.wikipedia.org/wiki/Wilson's_Phalarope" title="Wilson's Phalarope" target="_blank">Wilson's Phalarope</a></td>
 				<td>27</td>
 			</tr>
 			<tr>
