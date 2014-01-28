@@ -691,16 +691,8 @@ Query Statistics
 				<th># of images</th>
 			</tr>
 			<tr>
-				<td>Saturn Girl</td>
-				<td>5</td>
-			</tr>
-			<tr>
 				<td>Saturn V Spacecraft</td>
 				<td>16</td>
-			</tr>
-			<tr>
-				<td>Saturn Painting</td>
-				<td>2</td>
 			</tr>
 			<tr>
 				<td>ship</td>
@@ -709,10 +701,6 @@ Query Statistics
 			<tr>
 				<td>Sega Saturn Video Game Console</td>
 				<td>2</td>
-			</tr>
-			<tr>
-				<td>astrophotography</td>
-				<td>47</td>
 			</tr>
 			<tr>
 				<td>god : roman mythology</td>
@@ -724,11 +712,11 @@ Query Statistics
 			</tr>
 			<tr>
 				<td>planet Saturn</td>
-				<td>197</td>
+				<td>244</td>
 			</tr>
 			<tr>
 				<td>others</td>
-				<td>37</td>
+				<td>44</td>
 			</tr>
 		</table>
     </td>
