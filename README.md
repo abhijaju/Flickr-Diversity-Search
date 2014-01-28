@@ -818,14 +818,6 @@ Query Statistics
 				<th># of images</th>
 			</tr>
 			<tr>
-				<td>Spider Robots</td>
-				<td>2</td>
-			</tr>
-			<tr>
-				<td>Spider by LEGO</td>
-				<td>4</td>
-			</tr>
-			<tr>
 				<td>Spider Lily and Plants</td>
 				<td>8</td>
 			</tr>
@@ -847,7 +839,7 @@ Query Statistics
 			</tr>
 			<tr>
 				<td>others</td>
-				<td>30</td>
+				<td>36</td>
 			</tr>
 		</table> 
     </td>
