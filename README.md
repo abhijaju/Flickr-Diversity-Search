@@ -916,16 +916,12 @@ Query Statistics
 				<td>9</td>
 			</tr>
 			<tr>
-				<td>Camera Obscura (San Francisco, California)</td>
+				<td><a href="http://en.wikipedia.org/wiki/Camera_Obscura_(San_Francisco,_California)" title="Camera Obscura (San Francisco, California)" target="_blank">Camera Obscura (San Francisco, California)</a></td>
 				<td>3</td>
 			</tr>
 			<tr>
 				<td>Giant Squid</td>
 				<td>3</td>
-			</tr>
-			<tr>
-				<td>Giant Cupcake</td>
-				<td>48</td>
 			</tr>
 			<tr>
 				<td>The Giant’s Causeway (Ireland)</td>
@@ -953,7 +949,7 @@ Query Statistics
 			</tr>
 			<tr>
 				<td>others</td>
-				<td>142</td>
+				<td>190</td>
 			</tr>
 		</table>
   	</td>
