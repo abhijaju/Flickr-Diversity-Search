@@ -736,12 +736,8 @@ Query Statistics
 				<td>39</td>
 			</tr>
 			<tr>
-				<td>submarine</td>
-				<td>7</td>
-			</tr>
-			<tr>
 				<td>Vehicle or Vessel</td>
-				<td>17</td>
+				<td>24</td>
 			</tr>
 			<tr>
 				<td>Heavy metal band</td>
