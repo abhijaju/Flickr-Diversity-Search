@@ -1063,14 +1063,6 @@ Query Statistics
 				<th># of images</th>
 			</tr>
 			<tr>
-				<td>Prince Charles</td>
-				<td>21</td>
-			</tr>
-			<tr>
-				<td>Prince Harry</td>
-				<td>55</td>
-			</tr>
-			<tr>
 				<td>Prince Poppycock (singer)</td>
 				<td>31</td>
 			</tr>
@@ -1095,8 +1087,8 @@ Query Statistics
 				<td>48</td>
 			</tr>
 			<tr>
-				<td>prince william (uk royal family)</td>
-				<td>32</td>
+				<td>UK Royal Family</td>
+				<td>108</td>
 			</tr>
 			<tr>
 				<td>others</td>
