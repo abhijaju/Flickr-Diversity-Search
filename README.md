@@ -769,19 +769,11 @@ Query Statistics
 				<th># of images</th>
 			</tr>
 			<tr>
-				<td>Graffiti</td>
-				<td>4</td>
-			</tr>
-			<tr>
-				<td>Seal Knot</td>
-				<td>3</td>
-			</tr>
-			<tr>
 				<td>Seal (musician)</td>
 				<td>8</td>
 			</tr>
 			<tr>
-				<td>Seal Rocks</td>
+				<td><a href="http://en.wikipedia.org/wiki/Seal_Rock" title="Seal Rock" target="_blank">Seal Rocks</a></td>
 				<td>30</td>
 			</tr>
 			<tr>
@@ -802,7 +794,7 @@ Query Statistics
 			</tr>
 			<tr>
 				<td>others</td>
-				<td>31</td>
+				<td>38</td>
 			</tr>
 		</table>
     </td>
