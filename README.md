@@ -376,12 +376,8 @@ Query Statistics
 				<td>3</td>
 			</tr>
 			<tr>
-				<td>Greyhound bus terminals</td>
-				<td>48</td>
-			</tr>
-			<tr>
-				<td>long distance bus service</td>
-				<td>231</td>
+				<td>Greyhound long distance bus service and terminals</td>
+				<td>279</td>
 			</tr>
 			<tr>
 				<td>dog breed</td>
