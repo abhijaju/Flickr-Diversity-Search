@@ -201,7 +201,7 @@ Query Statistics
 			</tr>
 			<tr>
 				<td>others</td>
-				<td>119</td>
+				<td>129</td>
 			</tr>
 		</table>
     </td>
@@ -364,7 +364,7 @@ Query Statistics
 				<th># of images</th>
 			</tr>
 			<tr>
-				<td>Greyhound Tank LEGO</td>
+				<td><a href="http://brickmaniatoys.com/2013/12/03/m8-greyhound-light-armored-scout-car-a-super-premium-re-issue/" title="M8 Greyhound Light Armored Scout Car – A Super Premium Re-issue | Brickmania Blog" target="_blank">Greyhound Tank LEGO</a></td>
 				<td>5</td>
 			</tr>
 			<tr>

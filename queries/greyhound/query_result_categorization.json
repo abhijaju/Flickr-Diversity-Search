@@ -32,7 +32,7 @@
             ]
         },
         {
-            "name": "Greyhound bus terminals",
+            "name": "Greyhound long distance bus service and terminals",
             "images": [
                 "2220540004",
                 "6521770811",
@@ -81,12 +81,7 @@
                 "2093807913",
                 "814900485",
                 "248669908",
-                "3169313219"
-            ]
-        },
-        {
-            "name": "long distance bus service",
-            "images": [
+                "3169313219",
                 "4863103971",
                 "8693750148",
                 "7225599612",
