@@ -172,7 +172,7 @@ Query Statistics
 				<td>23</td>
 			</tr>
 			<tr>
-				<td>[Argo train network](http://en.wikipedia.org/wiki/Rail_transport_in_Indonesia "Rail transport in Indonesia")</td>
+				<td><a title="Rail transport in Indonesia" href="http://en.wikipedia.org/wiki/Rail_transport_in_Indonesia" target="_blank">Argo train network</a></td>
 				<td>31</td>
 			</tr>
 			<tr>
