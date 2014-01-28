@@ -977,12 +977,8 @@ Query Statistics
 				<td>32</td>
 			</tr>
 			<tr>
-				<td>Electric cars (Tesla Mortors)</td>
-				<td>228</td>
-			</tr>
-			<tr>
-				<td>Tesla Motors related</td>
-				<td>38</td>
+				<td>Tesla Motors</td>
+				<td>266</td>
 			</tr>
 			<tr>
 				<td>american hard rock band</td>
