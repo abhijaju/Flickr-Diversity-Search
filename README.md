@@ -1,24 +1,24 @@
 Test Collection for Image Search Result Diversity in Flickr
 ===========================================================
 
-To create this test collection the following process was followed. First, a set of 30 ambiguous keyword queries were 
+To create this test collection the following process was followed. First, a set of 30 ambiguous keyword queries were
 identified. Every query was manually annotated with the possible set of interpretations (categories). The keyword queries
-and their possible interpretations is shown in `Table 1`. Next, the Flickr APIs were used to fetch the images and the 
-related metadata for each query. This was done by utilizing the `flickr.photos.search` API. This API takes as input a query 
-string and performs a free text search on Flickr images. Images who's title, description or tags matches the query terms are 
-returned. Different Flickr APIs are then used to retrieve the relevant metadata for each image in the result set. Note 
-while crawling images without tag or Flickr Group/photoset information were discarded. The number of images crawled for 
-each query is shown under column titled `# of images` in `Table 1`.  For each query a resulting json file containing the 
+and their possible interpretations is shown in `Table 1`. Next, the Flickr APIs were used to fetch the images and the
+related metadata for each query. This was done by utilizing the `flickr.photos.search` API. This API takes as input a query
+string and performs a free text search on Flickr images. Images who's title, description or tags matches the query terms are
+returned. Different Flickr APIs are then used to retrieve the relevant metadata for each image in the result set. Note
+while crawling images without tag or Flickr Group/photoset information were discarded. The number of images crawled for
+each query is shown under column titled `# of images` in `Table 1`.  For each query a resulting json file containing the
 crawled metadata is created. The schema of this json file is shown `Figure 1`.
 
-Three human evaluators were then asked to label the resulting data set. Each human labeler was shown images from the query 
-result set and was asked to label it with one of the categories associated with that query. The user was allowed to add 
-additional categories if the situation required. Any image that was judged irrelevant or whose category label was not 
-evident was assigned to the `other` category. Finally, ground truth category was determined by using a majority voting 
-scheme. This labeling task was performed on all the 30 queries. The result of this categorization is stored in a separate 
+Three human evaluators were then asked to label the resulting data set. Each human labeler was shown images from the query
+result set and was asked to label it with one of the categories associated with that query. The user was allowed to add
+additional categories if the situation required. Any image that was judged irrelevant or whose category label was not
+evident was assigned to the `other` category. Finally, ground truth category was determined by using a majority voting
+scheme. This labeling task was performed on all the 30 queries. The result of this categorization is stored in a separate
 json file the schema for which is shown in `Figure 2`.
 
-##### Note: For every query two json files are created: 
+##### Note: For every query two json files are created:
 <dl>
 	<dt>query_data.json</dt>
 	<dd>
@@ -47,7 +47,7 @@ Project Structure
 	|   |
 	|	|──
 	|	|
-	|   
+	|
 	├── README.md
 	└── LICENSE
 
@@ -59,7 +59,7 @@ JSON Schema for `query_data.json`
 
 	@object(2) {											\\ top-level object
 		"about": @object(2) {								\\ about object
-			"query": "string",								\\ query name 
+			"query": "string",								\\ query name
 			"date": "string"								\\ date when the query was crawled
 		},
 		"data": @array [									\\ data object, list of objects for each photo
@@ -67,7 +67,7 @@ JSON Schema for `query_data.json`
 				"id": "string",								\\ photo ID in flickr
 				"photo_physical": "string",					\\ url of photo in jpg format of size medium 640
 				"photo_web_url": "string",					\\ url of photo page in flickr
-				"photo_tags": @array [						\\ list of tags of the photo in flickr 
+				"photo_tags": @array [						\\ list of tags of the photo in flickr
 					"string"
 				],
 				"photo_owner": @object(3) {					\\ details of the owner of the photo
@@ -81,7 +81,7 @@ JSON Schema for `query_data.json`
 				},
 				"owner_groups": @array [					\\ list of groups the owner is a member of
 					@object(2) {
-						"nsid": "string",					
+						"nsid": "string",
 						"name": "string"
 					}
 				],
@@ -115,8 +115,12 @@ JSON Schema for `query_data.json`
 						"username": "string",				\\ username of user
 						"date": "string"					\\ timestamp of the action
 					}
-				]
-			}	
+				],
+				"license": @object(2) {						\\ license associated with the photo
+					"name": "string",						\\ type of license
+					"url": "string"							\\ details of the license
+				}
+			}
 		]
 	}
 
@@ -179,7 +183,7 @@ Query Statistics
 				<td><a href="http://en.wikipedia.org/wiki/Argo_Gold_Mine_and_Mill" title="Argo Gold Mine and Mill" target="_blank">Argo Gold Mine and Mill</a></td>
 				<td>34</td>
 			</tr>
-			<tr>   
+			<tr>
 				<td><a href="http://en.wikipedia.org/wiki/Argo_(oceanography)" title="Argo (oceanography)" target="_blank">Argo (oceanography)</a></td>
 				<td>14</td>
 			</tr>
@@ -833,7 +837,7 @@ Query Statistics
 				<td>others</td>
 				<td>36</td>
 			</tr>
-		</table> 
+		</table>
     </td>
   </tr>
   <tr>
@@ -1164,7 +1168,7 @@ Query Statistics
 				<td></td>
 				<td></td>
 			</tr>
-		</table> 
+		</table>
 		<a href="" title="" target="_blank"></a>
 		-->
 </table>
