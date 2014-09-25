@@ -251,7 +251,7 @@ Query Statistics
 		</table>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>3</td>
     <td>david</td>
     <td>347</td>
@@ -307,9 +307,9 @@ Query Statistics
 			</tr>
 		</table>
     </td>
-  </tr>
+  </tr> -->
   <tr>
-    <td>4</td>
+    <td>3</td>
     <td>eagle</td>
     <td>469</td>
     <td>
@@ -358,7 +358,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>4</td>
     <td>greyhound</td>
     <td>415</td>
     <td>
@@ -395,7 +395,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>5</td>
     <td>indian</td>
     <td>375</td>
     <td>
@@ -440,7 +440,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>6</td>
     <td>jaguar</td>
     <td>429</td>
     <td>
@@ -469,7 +469,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>7</td>
     <td>java</td>
     <td>438</td>
     <td>
@@ -510,7 +510,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>9</td>
+    <td>8</td>
     <td>kings</td>
     <td>414</td>
     <td>
@@ -579,7 +579,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>9</td>
     <td>oasis</td>
     <td>426</td>
     <td>
@@ -616,7 +616,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>10</td>
     <td>queen</td>
     <td>442</td>
     <td>
@@ -685,7 +685,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>11</td>
     <td>saturn</td>
     <td>422</td>
     <td>
@@ -726,7 +726,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>12</td>
     <td>scorpion</td>
     <td>462</td>
     <td>
@@ -763,7 +763,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>14</td>
+    <td>13</td>
     <td>seal</td>
     <td>410</td>
     <td>
@@ -804,7 +804,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>15</td>
+    <td>14</td>
     <td>spider</td>
     <td>412</td>
     <td>
@@ -841,7 +841,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-    <td>16</td>
+    <td>15</td>
     <td>triumph</td>
     <td>392</td>
     <td>
@@ -870,7 +870,7 @@ Query Statistics
     </td>
   </tr>
   <tr>
-  	<td>17</td>
+  	<td>16</td>
   	<td>giant</td>
   	<td>408</td>
   	<td>
@@ -943,7 +943,7 @@ Query Statistics
   	</td>
   </tr>
   <tr>
-  	<td>18</td>
+  	<td>17</td>
   	<td>tesla</td>
   	<td>387</td>
   	<td>
@@ -976,7 +976,7 @@ Query Statistics
   	</td>
   </tr>
   <tr>
-  	<td>19</td>
+  	<td>18</td>
   	<td>tiger</td>
   	<td>417</td>
   	<td>
@@ -1037,7 +1037,7 @@ Query Statistics
   	</td>
   </tr>
   <tr>
-  	<td>20</td>
+  	<td>19</td>
   	<td>prince</td>
   	<td>424</td>
   	<td>
@@ -1082,7 +1082,7 @@ Query Statistics
   	</td>
   </tr>
   <tr>
-  	<td>21</td>
+  	<td>20</td>
   	<td>wilson</td>
   	<td>430</td>
   	<td>
