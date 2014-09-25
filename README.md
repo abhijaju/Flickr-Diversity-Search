@@ -1,7 +1,7 @@
 Test Collection for Image Search Result Diversity in Flickr
 ===========================================================
 
-To create this test collection the following process was followed. First, a set of 30 ambiguous keyword queries were
+To create this test collection the following process was followed. First, a set of 20 ambiguous keyword queries were
 identified. Every query was manually annotated with the possible set of interpretations (categories). The keyword queries
 and their possible interpretations is shown in `Table 1`. Next, the Flickr APIs were used to fetch the images and the
 related metadata for each query. This was done by utilizing the `flickr.photos.search` API. This API takes as input a query
@@ -15,7 +15,7 @@ Three human evaluators were then asked to label the resulting data set. Each hum
 result set and was asked to label it with one of the categories associated with that query. The user was allowed to add
 additional categories if the situation required. Any image that was judged irrelevant or whose category label was not
 evident was assigned to the `other` category. Finally, ground truth category was determined by using a majority voting
-scheme. This labeling task was performed on all the 30 queries. The result of this categorization is stored in a separate
+scheme. This labeling task was performed on all the 20 queries. The result of this categorization is stored in a separate
 json file the schema for which is shown in `Figure 2`.
 
 ##### Note: For every query two JSON files are created:
