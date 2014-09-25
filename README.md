@@ -123,7 +123,8 @@ JSON Schema for `query_data.json`
 			}
 		]
 	}
-**Note:** The user IDs, usernames and realnames have been anonymized to `USER_<number>`. A user is referred with same anonymized name across the whole dataset.
+**Note:** The user IDs, usernames and realnames have been anonymized to `USER_<number>`. A particular user is referred with same anonymized name across the whole dataset.
+
 
 JSON Schema for `query_result_categorization.json`
 ---------------------------------------------
