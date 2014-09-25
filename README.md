@@ -18,7 +18,7 @@ evident was assigned to the `other` category. Finally, ground truth category was
 scheme. This labeling task was performed on all the 30 queries. The result of this categorization is stored in a separate
 json file the schema for which is shown in `Figure 2`.
 
-##### Note: For every query two json files are created:
+##### Note: For every query two JSON files are created:
 <dl>
 	<dt>query_data.json</dt>
 	<dd>
