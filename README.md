@@ -60,7 +60,8 @@ JSON Schema for `query_data.json`
 	@object(2) {											\\ top-level object
 		"about": @object(2) {								\\ about object
 			"query": "string",								\\ query name
-			"date": "string"								\\ date when the query was crawled
+			"date": "string",								\\ date when the query was crawled
+			"photos_license_creativecommons": "string" \\ number of photos with creative commons license
 		},
 		"data": @array [									\\ data object, list of objects for each photo
 			@object(11) {									\\ object for an photo
